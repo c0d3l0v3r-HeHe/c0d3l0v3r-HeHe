@@ -37,10 +37,10 @@ const decee = {
 
 | Project | Stack | Status |
 |---|---|---|
-| 🪟 **XP Portfolio** | HTML · CSS · GSAP | 🔨 Building |
-| 📋 **tab-connect** | Flutter · WebSocket · TCP | 🔨 Building |
-| 🔐 **2FA Authenticator** | Flutter · TOTP · Python | 🔨 Building |
-| 💼 **Job Portal** | Next.js · Hono · Prisma | 🔨 Building |
+| 🪟 **XP Portfolio** | HTML · CSS · GSAP | [Link](https://portfolio-one-rust-77.vercel.app/) |
+| 📋 **Rust Scheduler** | Rust | [Link](https://github.com/c0d3l0v3r-HeHe/os-simulator-rust) |
+| 🔐 **2FA Authenticator** | Flutter · TOTP · Python | [Authenticator](https://github.com/c0d3l0v3r-HeHe/uss-project-application) |
+| 💼 **Job Portal** | Next.js · Hono · Prisma | [Link]() |
 
 ---
 
