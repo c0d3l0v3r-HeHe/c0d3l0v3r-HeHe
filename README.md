@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Engineer;Systems+Programming+Enthusiast;Machine+Learning+Explorer;Future+Red+Teamer" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge\&logo=medium)](YOUR_MEDIUM_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://portfolio-one-rust-77.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/decee-rao-364751277/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge\&logo=medium)](https://medium.com/@codelover2404)
 
 </div>
 
@@ -27,82 +27,134 @@
 
 ## 🚀 Featured Projects
 
-### 🔑 Distributed Authentication System
+### 🔐 Distributed Authentication Service
 
-A scalable authentication infrastructure built using modern backend engineering principles.
+A distributed authentication platform designed using event-driven architecture and modern backend infrastructure.
 
-**Tech:** Node.js • PostgreSQL • JWT • Docker
+**Highlights**
+- Supported 1,000+ concurrent authenticated sessions
+- Built PostgreSQL → Kafka → MongoDB CDC pipeline using Debezium
+- Achieved <1.5s replication lag for real-time synchronization
+- Implemented Redis caching for high-concurrency workloads
+- Built Prometheus/Grafana monitoring stack
+- Sustained 500 req/sec with 99.87% success rate during load testing
+
+**Tech:** Bun • TypeScript • PostgreSQL • MongoDB • Redis • Kafka • Debezium • Docker • Prometheus
 
 ---
 
-### 📈 AI Stock Trading Bot
+### 📈 MarketPulse AI
 
-Combines:
+An autonomous competitor intelligence platform that automates market research and business analysis.
 
-* Supervised Learning
-* Reinforcement Learning
-* Financial Sentiment Analysis
+**Highlights**
+- Reduced manual research time by 80%
+- Generated SWOT and sentiment reports using LLMs
+- Scraped and analyzed data from 50+ live sources
+- Managed 1,000+ daily data operations
+- Built responsive analytics dashboard
 
-for automated trading decisions.
+**Tech:** Next.js 14 • TypeScript • MongoDB Atlas • OpenRouter • TailwindCSS
 
-**Tech:** Python • PyTorch • FinBERT
+🔗 Live Demo: https://marketpulse-ai-taupe.vercel.app
+
+---
+
+### 🛡️ Secure Authenticator App
+
+A privacy-focused TOTP authenticator built with strong cryptographic guarantees.
+
+**Highlights**
+- Implemented SHA-256 based secure authentication
+- Designed encrypted backup and recovery mechanism
+- Achieved complete backend isolation using virtualization
+- Added biometric protection and rate limiting
+- Enforced secure key lifecycle management
+
+**Tech:** Flutter • Cryptography • Virtualization • Security Engineering
 
 ---
 
 ### 🧬 Peptide m/z Calculator
 
-Mass spectrometry utility built using OpenMS tooling.
+A scientific computing tool for mass spectrometry workflows and peptide analysis.
+
+**Highlights**
+- Automated peptide mass calculations
+- Built an interactive Streamlit interface
+- Integrated OpenMS tooling for bioinformatics workflows
+- Simplified mass spectrometry experimentation
 
 **Tech:** Python • Streamlit • PyOpenMS
 
 ---
 
-### 🛸 Autonomous AI Pet Drone
+### 🤖 AI Stock Trading Bot *(In Progress)*
 
-Experimental robotics project involving:
+An intelligent trading platform combining forecasting, reinforcement learning, and sentiment analysis.
 
-* Computer Vision
-* Object Tracking
-* Autonomous Navigation
+**Highlights**
+- Stock price prediction models
+- Reinforcement learning based decision engine
+- Financial news sentiment analysis
+- Automated buy/sell strategy generation
 
----
+**Tech:** Python • PyTorch • FinBERT • Reinforcement Learning
 
 ## 🛠️ Core Technologies
 
-### Languages
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash)
 
-### Backend
+### Backend & Distributed Systems
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square\&logo=bun)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square\&logo=apachekafka)
+![Debezium](https://img.shields.io/badge/Debezium-000000?style=flat-square)
+
+### Frontend & Mobile
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql)
 
-### DevOps
+### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy)
+
+### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman)
 
----
-
-## 📚 Latest Articles
-
-* Reverse Proxies and Load Balancers
-* Distributed Authentication Systems
-* Backend Engineering Concepts
-
----
+--- 
 
 ## 📊 GitHub Stats
 
