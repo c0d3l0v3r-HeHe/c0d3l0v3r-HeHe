@@ -166,11 +166,43 @@ An intelligent trading platform combining forecasting, reinforcement learning, a
 
 ## 📫 Reach Me
 
-* LinkedIn
-* Medium
-* Portfolio
-* Email
+<p align="center">
+
+<a href="https://www.linkedin.com/in/decee-rao-364751277/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@codelover2404">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://portfolio-one-rust-77.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="mailto:deceerao@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
+
+<div align="center">
+
+### 💡 Currently Exploring
+
+Distributed Systems • Backend Infrastructure • Machine Learning • Computer Security • Systems Programming
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=c0d3l0v3r-HeHe&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
 
 > "Build things. Break things. Learn why they work."
