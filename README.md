@@ -1,36 +1,132 @@
 <div align="center">
 
-# ⚡ c0d3l0v3r-HeHe
+# ⚡ c0d3l0v3r
 
-### Building Systems • Training Models • Breaking Things • Learning Everything
+### Building Systems • Training Models • Exploring Security
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Systems+Programming+Enthusiast;Machine+Learning+Explorer;Competitive+Programmer;Future+Red+Teamer;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Engineer;Systems+Programming+Enthusiast;Machine+Learning+Explorer;Future+Red+Teamer" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge\&logo=medium)](YOUR_MEDIUM_URL)
 
 </div>
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on Distributed Authentication Systems & Backend Infrastructure<br><br>👯 I’m looking to collaborate on Systems Programming, Open Source, and AI/ML Projects<br><br>🤝 I’m looking for help with Distributed Systems, Computer Security, and Large-Scale Backend Design<br><br>🌱 I’m currently learning Operating Systems, Computer Networks, Machine Learning, and Cybersecurity<br><br>💬 Ask me about C++, Python, Competitive Programming, Linux, Backend Development, and Machine Learning<br><br>⚡ Fun fact: I enjoy reading systems textbooks and building things from scratch to understand how they work
+## 👨‍💻 About Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/decee_rao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/decee-rao-364751277) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codelover2404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codelover2404@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=c0d3l0v3r-HeHe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=c0d3l0v3r-HeHe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=c0d3l0v3r-HeHe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=c0d3l0v3r-HeHe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🎓 Computer Science Student
+* 🐧 Linux Power User
+* ⚙️ Interested in Distributed Systems, Backend Engineering, and Systems Programming
+* 🤖 Exploring Machine Learning and Reinforcement Learning
+* 🔐 Learning Computer Security and Red Teaming
+* 📚 Currently studying OS, CN, DBMS, Computer Architecture, and ML fundamentals
 
 ---
-[![](https://komarev.com/ghpvc/?username=c0d3l0v3r-HeHe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🔑 Distributed Authentication System
+
+A scalable authentication infrastructure built using modern backend engineering principles.
+
+**Tech:** Node.js • PostgreSQL • JWT • Docker
+
+---
+
+### 📈 AI Stock Trading Bot
+
+Combines:
+
+* Supervised Learning
+* Reinforcement Learning
+* Financial Sentiment Analysis
+
+for automated trading decisions.
+
+**Tech:** Python • PyTorch • FinBERT
+
+---
+
+### 🧬 Peptide m/z Calculator
+
+Mass spectrometry utility built using OpenMS tooling.
+
+**Tech:** Python • Streamlit • PyOpenMS
+
+---
+
+### 🛸 Autonomous AI Pet Drone
+
+Experimental robotics project involving:
+
+* Computer Vision
+* Object Tracking
+* Autonomous Navigation
+
+---
+
+## 🛠️ Core Technologies
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+
+---
+
+## 📚 Latest Articles
+
+* Reverse Proxies and Load Balancers
+* Distributed Authentication Systems
+* Backend Engineering Concepts
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=c0d3l0v3r-HeHe&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=c0d3l0v3r-HeHe&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3l0v3r-HeHe&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+* LinkedIn
+* Medium
+* Portfolio
+* Email
+
+---
+
+> "Build things. Break things. Learn why they work."
