@@ -43,7 +43,7 @@ A distributed authentication platform designed using event-driven architecture a
 
 ---
 
-### 📈 MarketPulse AI
+### 📈 MarketPulse AI ( Hackathon Project - Dev Season of Code - Devpost )
 
 An autonomous competitor intelligence platform that automates market research and business analysis.
 
@@ -51,7 +51,6 @@ An autonomous competitor intelligence platform that automates market research an
 - Reduced manual research time by 80%
 - Generated SWOT and sentiment reports using LLMs
 - Scraped and analyzed data from 50+ live sources
-- Managed 1,000+ daily data operations
 - Built responsive analytics dashboard
 
 **Tech:** Next.js 14 • TypeScript • MongoDB Atlas • OpenRouter • TailwindCSS
